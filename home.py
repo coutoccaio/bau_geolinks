@@ -10,7 +10,7 @@ def principal():
         st.subheader(
             '''Esse site foi desenvolvido para agregar os serviços geoespaciais que disponibilizem dados da cidade de Salvador.''')
         st.title(' ')
-        st.markdown("<h5 style='text-align: right; color: #3399ff;'>TUTORIAL DE USO DA PLATAFORMA</h5>", unsafe_allow_html=True)
+        st.markdown("<h5 style='text-align: right; color: #3399ff;'>TUTORIAL DE USO DA PLATAFORMA teste</h5>", unsafe_allow_html=True)
         # image = Image.open('D:/Caio/Drive/Mestrados/Desenvolvimento de Aplicações Geoespaciais - UFPR/trabalho_final/thumb.png')
         st.video('https://www.youtube.com/watch?v=c9pnTc32hhU')
         st.title(' ')
